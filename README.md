@@ -25,7 +25,6 @@ The dataset used for evaluation is publicly available and published via Zenodo, 
 
 ## Code for baseline experiments
 
-The code is located in the [GitHub repository](https://github.com/physicsgen/physicsgen).
 
 **Project Structure:**
 
